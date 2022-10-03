@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Portefeuille F\xe9d\xe9r\xe9","permalink":"/blog/portefeuille_federe"},{"title":"Ecosocialisme num\xe9rique","permalink":"/blog/ecosocialisme_numerique"}]}')}}]);

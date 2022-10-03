@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tibillet.org/blog</id>
     <title>TiBillet Blog</title>
-    <updated>2022-09-15T00:00:00.000Z</updated>
+    <updated>2022-10-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tibillet.org/blog"/>
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Portefeuille Fédéré]]></title>
+        <id>portefeuille_federe</id>
+        <link href="https://tibillet.org/blog/portefeuille_federe"/>
+        <updated>2022-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chantier en cours autour d'une réfléxion carte TiBillet partagée.]]></summary>
+        <content type="html"><![CDATA[<p>Chantier en cours autour d'une réfléxion carte TiBillet partagée.</p><p><img loading="lazy" alt="/img/cr_220310_portefeuille_partage/FEDERONS-01.png" src="/assets/images/FEDERONS-01-4effa6df6e98617768f269293ad2c1b5.png" width="1276" height="1003" class="img_ev3q"></p><p><img loading="lazy" alt="/img/cr_220310_portefeuille_partage/FEDERONS-02.png" src="/assets/images/FEDERONS-02-36321c0fd8e003e94c39358ff1bb67b2.png" width="1276" height="1003" class="img_ev3q"></p><p><img loading="lazy" alt="/img/cr_220310_portefeuille_partage/FEDERONS-03.png" src="/assets/images/FEDERONS-03-79f9ac06a1db4d3f39fef42d592120ce.png" width="1276" height="1003" class="img_ev3q"></p><p>Une <a href="https://nuage.tierslieux.re/s/8JwiGeWJ9bdKzkr" target="_blank" rel="noopener noreferrer">roadmap</a> a été travaillée avec un résumé des budgets et des finances. </p><p>Pour ceux qui veulent aller vraiment loin dans la réflexion, nous avons créé un document qui recense un peu de littérature sur tout ce qui touche de près ou de loin à ce chantier.</p><p>C'est pensé comme une bibliothèque commune : Sentez-vous libre de rajouter vos articles et vos connaissances :
+<a href="https://nuage.tierslieux.re/s/sMPScgSPNgwRrWD" target="_blank" rel="noopener noreferrer">https://nuage.tierslieux.re/s/sMPScgSPNgwRrWD</a></p><p>Prochaine réunion dans le Lundi 17 Octobre 2022, sur le Discord de la coopérative TiBillet. Sujet : Portefeuille fédéré - Remontez nous vos idées et besoins.</p>]]></content>
+        <author>
+            <name>Jonas TURBEAUX</name>
+            <uri>https://github.com/Nasjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ecosocialisme numérique]]></title>
         <id>ecosocialisme_numerique</id>

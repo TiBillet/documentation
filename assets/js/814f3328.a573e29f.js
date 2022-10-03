@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ecosocialisme num\xe9rique","permalink":"/blog/ecosocialisme_numerique"}]}')}}]);
