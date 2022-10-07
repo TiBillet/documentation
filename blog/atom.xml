@@ -8,7 +8,7 @@
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.org/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[TiBillet Fédéré - Part1]]></title>
+        <title type="html"><![CDATA[TiBillet Fédéré - Première partie]]></title>
         <id>federation-part1</id>
         <link href="https://tibillet.org/blog/federation-part1"/>
         <updated>2022-10-03T00:00:00.000Z</updated>

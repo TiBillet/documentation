@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TiBillet F\xe9d\xe9r\xe9 - Part1","permalink":"/blog/federation-part1"},{"title":"Ecosocialisme num\xe9rique","permalink":"/blog/ecosocialisme_numerique"},{"title":"Liens utiles","permalink":"/blog/link"}]}')}}]);
