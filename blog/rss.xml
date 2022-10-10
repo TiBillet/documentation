@@ -70,13 +70,7 @@ Depuis 2010, nous construisons des outils numériques pour l'évènementiel cult
 Chaque lieu peut posseder une carte d'adhésion et de paiement sans contact (Cashless) et son instance de billetterie
 avec son agenda.</p><p>Le public peut réserver sa place de concert et recharger sa carte en ligne.
 Chaque lieu à son instance, ses membres et utilisateurs bien à lui.</p><p>Et sur un petit territoire comme la Réunion, c'est souvent les mêmes
-utilisateurs ...</p><p><img loading="lazy" alt="/img/federons/03-multiples.png" src="/assets/images/03-multiples-e3f6af5180f6f1154b2b54aa03c013fc.png" width="783" height="673" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="réunion-des-tiers-lieux">Réunion des Tiers-Lieux<a class="hash-link" href="#réunion-des-tiers-lieux" title="Lien direct vers le titre">​</a></h2><p>Avec la Réunion des Tiers-lieux, nous avons lancé
-le chantier Outil Commun pour fédérer les pratiques,
-éviter de multiplier les données et mutualiser le matériel.</p><p>Du côté de la team TiBillet, nous nous sommes affairés à construire
-les briques d'un logiciel libre utilisable par tout un territoire.</p><p>Depuis plusieurs mois, nous changeons le moteur de notre application pour pouvoir construire un outil commun
-et fédéré de billetterie, d'agenda culturel et de cashless.</p><p><img loading="lazy" alt="/img/federons/04-start_fede.png" src="/assets/images/04-start_fede-f6f6016596b3da3d772f0170f9cd115a.png" width="1005" height="608" class="img_ev3q"></p><p>Pour réussir à construire TiBillet en outil fédéré,
-techniquement, il a fallu changer pas mal de choses.
-Et pas uniquement notre vision globale :)</p><p>Au tout début, la "Stack' TiBillet (ensemble de boites techniques)
+utilisateurs ...</p><p><img loading="lazy" alt="/img/federons/03-multiples.png" src="/assets/images/03-multiples-e3f6af5180f6f1154b2b54aa03c013fc.png" width="783" height="673" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="au-commencement-">Au commencement ...<a class="hash-link" href="#au-commencement-" title="Lien direct vers le titre">​</a></h2><p>Au tout début, la "Stack' TiBillet (ensemble de boites techniques)
 était très centralisé :</p><p><img loading="lazy" alt="/img/federons/05-stackblock.png" src="/assets/images/05-stackblock-94fffbe18d1e6194eb5c0e433e4f4be2.png" width="862" height="1045" class="img_ev3q"></p><p>En 2018 vient un premier intérêt
 public avec l'aide du PRMA
 (Pole Régional des musique actuelles)
@@ -90,7 +84,14 @@ de RTL ne fait que confirmer
 nos envies communes et nous donne les moyens
 de développer un nouveau modèle.</p><p>Aujourd'hui (Octobre 2022), le chantier à beaucoup avancé.
 Il reste beaucoup à faire et <a href="https://nuage.tierslieux.re/s/sMPScgSPNgwRrWD" target="_blank" rel="noopener noreferrer">la feuille de route</a>
-commence à bien se dessiner.</p><p>Pour résumer, nous souhaitons séparer le développement
+commence à bien se dessiner :</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="réunion-des-tiers-lieux">Réunion des Tiers-Lieux<a class="hash-link" href="#réunion-des-tiers-lieux" title="Lien direct vers le titre">​</a></h2><p>Avec la Réunion des Tiers-lieux, nous avons lancé
+le chantier Outil Commun pour fédérer les pratiques,
+éviter de multiplier les données et mutualiser le matériel.</p><p>Du côté de la team TiBillet, nous nous sommes affairés à construire
+les briques d'un logiciel libre utilisable par tout un territoire et dDepuis plusieurs mois, nous changeons le moteur de
+notre application pour pouvoir construire un outil commun
+et fédéré de billetterie, d'agenda culturel et de cashless.</p><p><img loading="lazy" alt="/img/federons/04-start_fede.png" src="/assets/images/04-start_fede-f6f6016596b3da3d772f0170f9cd115a.png" width="1005" height="608" class="img_ev3q"></p><p>Pour réussir à construire TiBillet en outil fédéré,
+techniquement, il a fallu changer pas mal de choses.
+Et pas uniquement notre vision globale :)</p><p>Dans les grandes lignes, nous souhaitons séparer le développement
 et l'expérimentation en trois grandes étapes.</p><ul><li><a href="/blog/federation-part2">L'agenda partagé</a></li><li>Le portefeuille fédéré</li><li>Les monnaies locales</li></ul><p>À suivre dans la <a href="/blog/federation-part2">deuxième partie</a> ...</p>]]></content:encoded>
         </item>
         <item>
