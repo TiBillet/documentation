@@ -8,7 +8,7 @@
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.org/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Fédération 2/3 - L'agenda partagé]]></title>
+        <title type="html"><![CDATA[Fédération 2 - L'agenda partagé]]></title>
         <id>https://tibillet.org/blog/federation-part2</id>
         <link href="https://tibillet.org/blog/federation-part2"/>
         <updated>2022-10-10T00:00:00.000Z</updated>
@@ -51,7 +51,7 @@ cartes NFC déja utilisées par les lieux ?</p><p><img loading="lazy" alt="/img/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fédération 1/3 - Introduction]]></title>
+        <title type="html"><![CDATA[Fédération 1 - Introduction]]></title>
         <id>https://tibillet.org/blog/federation-part1</id>
         <link href="https://tibillet.org/blog/federation-part1"/>
         <updated>2022-10-09T00:00:00.000Z</updated>
@@ -90,7 +90,7 @@ Il reste beaucoup à faire et <a href="https://tibillet.org/roadmap/" target="_b
 commence à bien se dessiner :</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="réunion-des-tiers-lieux">Réunion des Tiers-Lieux<a href="#réunion-des-tiers-lieux" class="hash-link" aria-label="Lien direct vers Réunion des Tiers-Lieux" title="Lien direct vers Réunion des Tiers-Lieux">​</a></h2><p>Avec la Réunion des Tiers-lieux, nous avons lancé
 le chantier Outil Commun pour fédérer les pratiques,
 éviter de multiplier les données et mutualiser le matériel.</p><p>Du côté de la team TiBillet, nous nous sommes affairés à construire
-les briques d'un logiciel libre utilisable par tout un territoire et dDepuis plusieurs mois, nous changeons le moteur de
+les briques d'un logiciel libre utilisable par tout un territoire et depuis plusieurs mois, nous changeons le moteur de
 notre application pour pouvoir construire un outil commun
 et fédéré de billetterie, d'agenda culturel et de cashless.</p><p><img loading="lazy" alt="/img/federons/04-start_fede.png" src="/assets/images/04-start_fede-f6f6016596b3da3d772f0170f9cd115a.png" width="1005" height="608" class="img_ev3q"></p><p>Pour réussir à construire TiBillet en outil fédéré,
 techniquement, il a fallu changer pas mal de choses.
